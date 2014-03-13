@@ -1,0 +1,12 @@
+<aspectj>
+<aspects>
+<aspect name="com.teste.web.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.teste.Cliente_Roo_Jpa_Entity"/>
+<aspect name="com.teste.Cliente_Roo_JavaBean"/>
+<aspect name="com.teste.Cliente_Roo_ToString"/>
+<aspect name="com.teste.Cliente_Roo_Configurable"/>
+<aspect name="com.teste.Cliente_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.teste.web.ClienteController_Roo_Controller"/>
+</aspects>
+</aspectj>
+
